@@ -1,16 +1,18 @@
-### Hi there 👋
+## ["Hello there !"](https://youtu.be/rEq1Z0bjdwc?t=7)
 
-<!--
-**wallysoncarvalho/wallysoncarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Making long story short, i have experience with:
 
-Here are some ideas to get you started:
+- Java 8+
+- Spring Boot
+- Docker (basics)
+- Angular 8
+- Javascript (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Interests and what i'm currently learning:
+- Functional programming with Elixir
+- Nodejs with express typescript
+- I also love everything that involves Devops
+
+
+You can reach me through my [linked in profile](https://www.linkedin.com/in/wallyson-carvalho-soares-45a369113/).
+
