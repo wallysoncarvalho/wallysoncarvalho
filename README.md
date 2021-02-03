@@ -4,15 +4,9 @@
 
 - Java 8+
 - Spring Boot
-- Docker (basics)
+- Docker
 - Angular 8
-- Javascript (basic)
-
-### 📖 Interests and what i'm currently learning:
-- Functional programming with Elixir
-- Nodejs with express typescript
-- I also love everything that involves Devops
-
+- Javascript
 
 You can reach me through my [linked in profile](https://www.linkedin.com/in/wallyson-carvalho-soares-45a369113/).
 
