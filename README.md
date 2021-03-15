@@ -1,12 +1,8 @@
-## ["Hello there !"](https://youtu.be/rEq1Z0bjdwc?t=7)
-
-### 👨‍💻 Making long story short, i have experience with:
+### 👨‍💻 Technologies
 
 - Java 8+
 - Spring Boot
 - Docker
-- Angular 8
-- Javascript
+- Junit Jupiter
 
-You can reach me through my [linked in profile](https://www.linkedin.com/in/wallyson-carvalho-soares-45a369113/).
-
+You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/wallyson-cs).
