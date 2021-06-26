@@ -1,8 +1,18 @@
-### 👨‍💻 Technologies
+### About me
+
+I'm a backend software engineer currently working in a fintech developing applications in Kotlin for a microservice architecture.
+
+### Technologies
 
 - Java 11
-- Spring Boot
-- Docker
+- Kotlin
+- Spring Boot (and its ecosystem)
 - Junit Jupiter
+- Docker
 
-You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/wallyson-cs).
+<br>
+
+![Wally's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallysoncarvalho&theme=vue-dark&show_icons=true)
+
+
+You can reach on my [LinkedIn profile](https://www.linkedin.com/in/wallyson-cs).
